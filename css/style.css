@@ -1,0 +1,80 @@
+.font-logo, .titulo-cards {
+    font-family: 'Zen Dots';
+}
+.carousel-imagens {
+    object-fit: cover;
+    max-height: 360px;
+}
+
+.btn-card, .btn-card:hover {
+    background-color: black;
+    color: whitesmoke;
+}
+
+.cards-imagens {
+    object-fit: cover;
+    object-position: 0 80%;
+}
+
+.icon-menu-inferior {
+    padding-right: 0.5rem;
+}
+
+.nav-link a:hover {
+    background-color: white;
+    color: black;
+    width: 18rem;
+    border-radius: 5rem;
+    font-family: 'Zen Dots';
+}
+.btn {
+    color: white;
+}
+
+#texto-sobre {
+    border-radius: 5px;
+    width: 420px;
+    height: 400px;
+    box-shadow: 10px 10px 10px;
+
+}
+
+.card-modelo {
+    max-width: 18rem;
+}
+
+.card-border {
+    border-color: black;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+.card-imagem-modelo {
+    object-fit: cover;
+    height: 13rem;
+}
+
+.border-card-carousel {
+    border-color: transparent;
+}
+
+.redes-socias {
+    font-size: 2rem;
+}
+
+.font-paragrafo {
+    font-size: 2rem;
+}
+
+.logo-com-realce {
+    background-color: grey;
+    width: 15rem;
+    padding-left: 1rem;
+    border-radius: 4rem;
+    box-shadow: 2px 2px 15px 1px rgba(255, 255, 255, 0.2);
+}
+
+.card-com-realce {
+    border-color: darkred;
+    box-shadow: 2px 2px 15px 10px rgba(52, 51, 51, 0.2);
+}
+
